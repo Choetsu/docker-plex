@@ -1,0 +1,222 @@
+2023-01-02T23:00:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:00:00.026Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:00:00.026Z [info][Plex Scan]: Scan starting {"sessionId":"13ab8717-e11e-4300-995d-9dfe2c73278c"}
+2023-01-02T23:00:00.029Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-02T23:00:00.035Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672700100026}
+2023-01-02T23:00:00.039Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672700100030}
+2023-01-02T23:00:00.043Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-02T23:01:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:02:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:03:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:04:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:05:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:05:00.011Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:05:00.012Z [info][Plex Scan]: Scan starting {"sessionId":"8b16eb3f-cbca-4e31-9785-fa544446e54a"}
+2023-01-02T23:05:00.021Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672700400039}
+2023-01-02T23:05:00.028Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672700400042}
+2023-01-02T23:05:00.033Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-02T23:06:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:07:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:08:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:09:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:10:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:10:00.013Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:10:00.013Z [info][Plex Scan]: Scan starting {"sessionId":"598c41c7-17b0-4357-817f-a2e068cfcc52"}
+2023-01-02T23:10:00.016Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-02T23:10:00.023Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672700700027}
+2023-01-02T23:10:00.062Z [debug][Plex Scan]: Saved new media: Anime 
+2023-01-02T23:10:00.064Z [debug][Plex Scan]: Saved new media: No Half Measures: Creating the Final Season of Breaking Bad 
+2023-01-02T23:10:04.068Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672700700033}
+2023-01-02T23:10:04.074Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-02T23:11:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:12:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:13:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:14:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:15:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:15:00.015Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:15:00.015Z [info][Plex Scan]: Scan starting {"sessionId":"b006f962-6e5c-4e75-b976-c3ebf388e6d6"}
+2023-01-02T23:15:00.029Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672701004067}
+2023-01-02T23:15:00.039Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"title":"Anime"}
+2023-01-02T23:15:00.040Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+2023-01-02T23:15:00.059Z [debug][Plex Scan]: Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad 
+2023-01-02T23:15:00.061Z [debug][Plex Scan]: Title already exists and no changes detected for Anime 
+2023-01-02T23:15:04.064Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672701004073}
+2023-01-02T23:15:04.070Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-02T23:15:20.811Z [info][Media Request]: Sent request to Radarr {"requestId":3,"mediaId":5}
+2023-01-02T23:15:20.816Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Iron Man 2 (2010)"}
+2023-01-02T23:15:21.534Z [info][Radarr]: Radarr accepted request 
+2023-01-02T23:15:21.535Z [debug][Radarr]: Radarr add details {"movie":{"title":"Iron Man 2","originalTitle":"Iron Man 2","originalLanguage":{"id":1,"name":"English"},"alternateTitles":[],"secondaryYearSourceId":0,"sortTitle":"iron man 2","sizeOnDisk":0,"status":"released","overview":"With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.","inCinemas":"2010-04-28T00:00:00Z","physicalRelease":"2010-09-28T00:00:00Z","images":[{"coverType":"poster","url":"/MediaCover/2/poster.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"},{"coverType":"fanart","url":"/MediaCover/2/fanart.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg"}],"website":"https://www.marvel.com/movies/iron-man-2","year":2010,"hasFile":false,"youTubeTrailerId":"BoohRoVA9WQ","studio":"Marvel Studios","path":"/movies/Iron Man 2 (2010)","qualityProfileId":4,"monitored":true,"minimumAvailability":"released","isAvailable":true,"folderName":"/movies/Iron Man 2 (2010)","runtime":124,"cleanTitle":"ironman2","imdbId":"tt1228705","tmdbId":10138,"titleSlug":"10138","certification":"PG-13","genres":["Adventure","Action","Science Fiction"],"tags":[],"added":"2023-01-02T23:15:21Z","addOptions":{"searchForMovie":true,"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly"},"ratings":{"imdb":{"votes":818575,"value":6.9,"type":"user"},"tmdb":{"votes":18750,"value":6.8,"type":"user"},"metacritic":{"votes":0,"value":57,"type":"user"},"rottenTomatoes":{"votes":0,"value":71,"type":"user"}},"collection":{"title":"Iron Man Collection","tmdbId":131292,"monitored":false,"qualityProfileId":0,"searchOnAdd":false,"minimumAvailability":"tba","images":[],"added":"0001-01-01T00:00:00Z","id":0},"popularity":158.273,"id":2}}
+2023-01-02T23:16:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:17:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:18:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:19:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:20:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:20:00.013Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:20:00.014Z [info][Plex Scan]: Scan starting {"sessionId":"7711b477-8f2c-4579-98f2-98d6d45b1e06"}
+2023-01-02T23:20:00.018Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-02T23:20:00.031Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672701304063}
+2023-01-02T23:20:00.039Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"title":"Anime"}
+2023-01-02T23:20:00.040Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+2023-01-02T23:20:00.057Z [debug][Plex Scan]: Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad 
+2023-01-02T23:20:00.058Z [debug][Plex Scan]: Title already exists and no changes detected for Anime 
+2023-01-02T23:20:04.060Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672701304070}
+2023-01-02T23:20:04.067Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-02T23:20:37.842Z [info]: Commit Tag: v1.31.0 
+2023-01-02T23:20:38.320Z [info]: Starting Overseerr version 1.31.0 
+2023-01-02T23:20:39.153Z [info][Notifications]: Registered notification agents 
+2023-01-02T23:20:39.176Z [info][Jobs]: Scheduled jobs loaded 
+2023-01-02T23:20:39.281Z [info][Server]: Server ready on port 5055 
+2023-01-02T23:21:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:22:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:23:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:24:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:25:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:25:00.031Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:25:00.033Z [info][Plex Scan]: Scan starting {"sessionId":"a303bf8f-6e31-462d-96a9-ea5cc1568e1f"}
+2023-01-02T23:25:00.082Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672701604060}
+2023-01-02T23:25:00.090Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672701604066}
+2023-01-02T23:25:00.095Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-02T23:26:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:27:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:28:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:28:10.166Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:28:17.968Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","movieId":"361743"}
+2023-01-02T23:28:30.129Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","movieId":"361743"}
+2023-01-02T23:28:37.040Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:28:45.176Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.76:443","movieId":"361743"}
+2023-01-02T23:28:51.891Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:28:51.971Z [debug][API]: Something went wrong retrieving the series genre slider {"errorMessage":"[TMDB] Failed to fetch TV genres: connect ENETUNREACH 52.84.174.76:443"}
+2023-01-02T23:29:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:29:07.509Z [debug][API]: Something went wrong retrieving languages {"errorMessage":"[TMDB] Failed to fetch langauges: connect ENETUNREACH 52.84.174.36:443"}
+2023-01-02T23:29:15.696Z [debug][API]: Something went wrong retrieving regions {"errorMessage":"[TMDB] Failed to fetch countries: connect ENETUNREACH 52.84.174.36:443"}
+2023-01-02T23:29:16.464Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","movieId":"910552"}
+2023-01-02T23:29:22.504Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.5:443"}
+2023-01-02T23:29:23.637Z [debug][API]: Something went wrong retrieving upcoming series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.56:443"}
+2023-01-02T23:29:24.724Z [error][Plex.TV Metadata API]: Failed to retrieve watchlist items {"errorMessage":"connect ENETUNREACH 104.18.19.96:443"}
+2023-01-02T23:29:27.791Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.36:443","tvId":"119051"}
+2023-01-02T23:29:28.681Z [info][Plex Scan]: Scan starting {"sessionId":"51d72324-37ac-4de2-b501-1210144c3f96"}
+2023-01-02T23:29:28.694Z [info][Plex Scan]: Beginning to process library: Films 
+2023-01-02T23:29:28.705Z [debug][Plex Scan]: Title already exists and no changes detected for Anime 
+2023-01-02T23:29:28.706Z [debug][Plex Scan]: Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad 
+2023-01-02T23:29:28.706Z [info][Plex Scan]: Beginning to process library: Séries TV 
+2023-01-02T23:29:28.710Z [info][Plex Scan]: Full Scan Complete 
+2023-01-02T23:29:30.862Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","movieId":"76600"}
+2023-01-02T23:29:33.949Z [debug][API]: Something went wrong retrieving movie ratings {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","movieId":"361743"}
+2023-01-02T23:29:37.043Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","movieId":"361743"}
+2023-01-02T23:29:41.687Z [info][Plex Scan]: Scan starting {"sessionId":"a2f57d7b-f56d-47aa-8825-936e390ca351"}
+2023-01-02T23:29:41.699Z [info][Plex Scan]: Beginning to process library: Films 
+2023-01-02T23:29:41.707Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"title":"Anime"}
+2023-01-02T23:29:41.707Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+2023-01-02T23:29:41.710Z [debug][Plex Scan]: Title already exists and no changes detected for Anime 
+2023-01-02T23:29:41.711Z [debug][Plex Scan]: Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad 
+2023-01-02T23:29:41.711Z [info][Plex Scan]: Beginning to process library: Films FR 
+2023-01-02T23:29:41.729Z [info][Plex Scan]: Media for No Half Measures: Creating the Final Season of Breaking Bad exists. Changes were detected and the title will be updated. 
+2023-01-02T23:29:41.731Z [info][Plex Scan]: Media for Anime exists. Changes were detected and the title will be updated. 
+2023-01-02T23:29:41.731Z [info][Plex Scan]: Beginning to process library: Séries TV 
+2023-01-02T23:29:41.735Z [info][Plex Scan]: Beginning to process library: Séries TV FR 
+2023-01-02T23:29:41.739Z [info][Plex Scan]: Full Scan Complete 
+2023-01-02T23:29:44.376Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:29:52.692Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","movieId":"910552"}
+2023-01-02T23:29:55.189Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","movieId":"436270"}
+2023-01-02T23:29:57.728Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","movieId":"910552"}
+2023-01-02T23:29:59.447Z [debug][API]: Something went wrong retrieving popular series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:29:59.449Z [debug][API]: Something went wrong retrieving upcoming movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:29:59.450Z [debug][API]: Something went wrong retrieving the movie genre slider {"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:29:59.451Z [debug][API]: Something went wrong retrieving popular movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.36:443"}
+2023-01-02T23:29:59.451Z [debug][API]: Something went wrong retrieving trending items {"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.36:443"}
+2023-01-02T23:30:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:30:00.006Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:30:00.006Z [info][Plex Scan]: Scan starting {"sessionId":"be2d80cb-0b25-4838-b406-2f84b659dc41"}
+2023-01-02T23:30:00.009Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-02T23:30:00.015Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672701900090}
+2023-01-02T23:30:00.020Z [info][Plex Scan]: Beginning to process recently added for library: Films FR {}
+2023-01-02T23:30:00.026Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+2023-01-02T23:30:00.027Z [debug][Plex Scan]: GUIDs are cached. Skipping metadata request. {"mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"title":"Anime"}
+2023-01-02T23:30:00.037Z [debug][Plex Scan]: Title already exists and no changes detected for Anime 
+2023-01-02T23:30:00.040Z [debug][Plex Scan]: Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad 
+2023-01-02T23:30:04.042Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672701900095}
+2023-01-02T23:30:04.048Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV FR {}
+2023-01-02T23:30:04.051Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-02T23:30:15.636Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","movieId":"910552"}
+2023-01-02T23:30:15.691Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:30:21.976Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","movieId":"76600"}
+2023-01-02T23:30:21.978Z [error][Plex.TV Metadata API]: Failed to retrieve watchlist items {"errorMessage":"connect ETIMEDOUT 104.18.19.96:443"}
+2023-01-02T23:30:21.980Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.56:443","tvId":"119051"}
+2023-01-02T23:30:21.981Z [debug][API]: Something went wrong retrieving the series genre slider {"errorMessage":"[TMDB] Failed to fetch TV genres: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:30:21.983Z [debug][API]: Something went wrong retrieving popular series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443"}
+2023-01-02T23:30:21.983Z [debug][API]: Something went wrong retrieving upcoming series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443"}
+2023-01-02T23:30:21.984Z [debug][API]: Something went wrong retrieving upcoming movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:30:21.985Z [debug][API]: Something went wrong retrieving popular movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:30:21.985Z [debug][API]: Something went wrong retrieving the movie genre slider {"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:30:21.986Z [debug][API]: Something went wrong retrieving trending items {"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.76:443"}
+2023-01-02T23:30:21.987Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","movieId":"10138"}
+2023-01-02T23:30:21.988Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.56:443","movieId":"239459"}
+2023-01-02T23:30:22.792Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","movieId":"910552"}
+2023-01-02T23:30:36.851Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.56:443","tvId":"208569"}
+2023-01-02T23:30:41.178Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","movieId":"910552"}
+2023-01-02T23:30:46.985Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.36:443","tvId":"208569"}
+2023-01-02T23:30:51.701Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:31:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:31:01.014Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.56:443","tvId":"103416"}
+2023-01-02T23:31:04.278Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","movieId":"910552"}
+2023-01-02T23:31:06.096Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.76:443","tvId":"103416"}
+2023-01-02T23:31:18.661Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:31:28.571Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:32:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:32:22.890Z [error][Plex.TV Metadata API]: Failed to retrieve watchlist items {"errorMessage":"connect ENETUNREACH 104.18.19.96:443"}
+2023-01-02T23:32:22.892Z [debug][API]: Something went wrong retrieving upcoming movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ENETUNREACH 52.84.174.56:443"}
+2023-01-02T23:32:28.956Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","movieId":"910552"}
+2023-01-02T23:32:28.959Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:32:32.943Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.76:443","movieId":"910552"}
+2023-01-02T23:32:49.458Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.76:443","movieId":"910552"}
+2023-01-02T23:33:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:33:28.343Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","movieId":"910552"}
+2023-01-02T23:33:28.345Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","movieId":"239459"}
+2023-01-02T23:33:28.346Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.56:443","movieId":"76600"}
+2023-01-02T23:33:28.346Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.115:443","tvId":"103416"}
+2023-01-02T23:33:28.347Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.115:443","movieId":"10138"}
+2023-01-02T23:33:28.348Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.115:443","tvId":"119051"}
+2023-01-02T23:33:28.349Z [debug][API]: Something went wrong retrieving popular series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.36:443"}
+2023-01-02T23:33:28.350Z [debug][API]: Something went wrong retrieving upcoming series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.36:443"}
+2023-01-02T23:33:28.350Z [debug][API]: Something went wrong retrieving trending items {"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:33:28.351Z [debug][API]: Something went wrong retrieving popular movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:33:34.488Z [debug][API]: Something went wrong retrieving the series genre slider {"errorMessage":"[TMDB] Failed to fetch TV genres: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:33:34.490Z [debug][API]: Something went wrong retrieving upcoming movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.36:443"}
+2023-01-02T23:33:34.492Z [debug][API]: Something went wrong retrieving the movie genre slider {"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:33:34.494Z [debug][API]: Something went wrong retrieving popular movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.36:443"}
+2023-01-02T23:33:34.495Z [debug][API]: Something went wrong retrieving trending items {"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:33:34.497Z [error][Plex.TV Metadata API]: Failed to retrieve watchlist items {"errorMessage":"connect ETIMEDOUT 104.18.18.96:443"}
+2023-01-02T23:33:34.499Z [debug][API]: Something went wrong retrieving upcoming series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443"}
+2023-01-02T23:33:34.502Z [debug][API]: Something went wrong retrieving popular series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443"}
+2023-01-02T23:33:34.504Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","movieId":"76600"}
+2023-01-02T23:33:34.505Z [debug][API]: Something went wrong retrieving series {"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.76:443","tvId":"119051"}
+2023-01-02T23:33:34.507Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.56:443","movieId":"239459"}
+2023-01-02T23:33:34.509Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","movieId":"10138"}
+2023-01-02T23:33:36.536Z [debug][API]: Something went wrong retrieving movie ratings {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","movieId":"361743"}
+2023-01-02T23:33:36.537Z [debug][API]: Something went wrong retrieving movie {"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","movieId":"361743"}
+2023-01-02T23:33:38.584Z [debug][API]: Something went wrong retrieving popular series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.56:443"}
+2023-01-02T23:33:38.586Z [debug][API]: Something went wrong retrieving upcoming movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:33:38.587Z [debug][API]: Something went wrong retrieving the movie genre slider {"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:33:38.589Z [debug][API]: Something went wrong retrieving popular movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.115:443"}
+2023-01-02T23:33:38.590Z [debug][API]: Something went wrong retrieving trending items {"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.76:443"}
+2023-01-02T23:33:38.592Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ETIMEDOUT 140.82.121.6:443"}
+2023-01-02T23:33:38.682Z [debug][API]: Something went wrong retrieving upcoming series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.115:443"}
+2023-01-02T23:33:38.684Z [debug][API]: Something went wrong retrieving the series genre slider {"errorMessage":"[TMDB] Failed to fetch TV genres: connect ENETUNREACH 52.84.174.115:443"}
+2023-01-02T23:33:41.778Z [error][Plex.TV Metadata API]: Failed to retrieve watchlist items {"errorMessage":"connect ENETUNREACH 104.18.19.96:443"}
+2023-01-02T23:34:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:34:24.950Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"connect ENETUNREACH 140.82.121.6:443"}
+2023-01-02T23:34:28.018Z [debug][API]: Something went wrong retrieving trending items {"errorMessage":"[TMDB] Failed to fetch all trending: connect ENETUNREACH 52.84.174.56:443"}
+2023-01-02T23:34:38.517Z [error][Plex.TV Metadata API]: Failed to retrieve watchlist items {"errorMessage":"connect ENETUNREACH 104.18.18.96:443"}
+2023-01-02T23:34:38.520Z [debug][API]: Something went wrong retrieving the series genre slider {"errorMessage":"[TMDB] Failed to fetch TV genres: connect ENETUNREACH 52.84.174.56:443"}
+2023-01-02T23:34:43.374Z [debug][API]: Something went wrong retrieving popular movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ENETUNREACH 52.84.174.56:443"}
+2023-01-02T23:34:43.487Z [debug][API]: Something went wrong retrieving upcoming movies {"errorMessage":"[TMDB] Failed to fetch discover movies: connect ENETUNREACH 52.84.174.36:443"}
+2023-01-02T23:34:46.547Z [debug][API]: Something went wrong retrieving popular series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.76:443"}
+2023-01-02T23:34:53.904Z [debug][API]: Something went wrong retrieving upcoming series {"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.36:443"}
+2023-01-02T23:35:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-02T23:35:00.005Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-02T23:35:00.006Z [info][Plex Scan]: Scan starting {"sessionId":"2a8a8f27-f134-4215-a964-6ecba34f2faa"}
+2023-01-02T23:35:00.013Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672702200019}
+2023-01-02T23:35:00.018Z [info][Plex Scan]: Beginning to process recently added for library: Films FR {"lastScan":1672702204042}
+2023-01-02T23:35:00.023Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672702204046}
+2023-01-02T23:35:00.026Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV FR {"lastScan":1672702204051}
+2023-01-02T23:35:00.029Z [info][Plex Scan]: Recently Added Scan Complete 

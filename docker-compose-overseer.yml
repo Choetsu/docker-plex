@@ -1,0 +1,22 @@
+version: '2.1'
+services:
+  overseerr:
+    image: linuxserver/overseerr:latest
+    container_name: overseerr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${ROOT}/overseerr/config:/config
+    ports:
+      - 5055:5055
+    networks:
+      - plex-network
+    restart: unless-stopped
+
+networks:
+  plex-network: 
+    external: true
+
+

@@ -1,0 +1,56 @@
+Jan 02, 2023 23:07:34.877 [0x7f9c59323b00] INFO - Plex Media Scanner v1.30.0.6486-629d58034 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Jan 02, 2023 23:07:34.877 [0x7f9c59323b00] INFO - Linux version: 5.15.0-56-generic, language: en-US
+Jan 02, 2023 23:07:34.877 [0x7f9c59323b00] INFO - Processor: 16-core AMD Ryzen 7 6800H with Radeon Graphics         
+Jan 02, 2023 23:07:34.877 [0x7f9c59323b00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 3
+Jan 02, 2023 23:07:34.878 [0x7f9c5cc9f140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Jan 02, 2023 23:07:34.957 [0x7f9c5cc9f140] DEBUG - Analyzing media parts for item 3 (No Half Measures: Creating the Final Season of Breaking Bad): 3
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [ID 3] Media part analysis: /movies/Breaking Bad.mp4
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [MI] Opening input file: "/movies/Breaking Bad.mp4"
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Opening '/movies/Breaking Bad.mp4' for reading
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 512, duration: 203013
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Offset DTS by 512 to make first pts zero.
+Jan 02, 2023 23:07:34.958 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 2048, duration: 584722
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 0 @ 0
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 1024 @ 1
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 20825 bytes read:32768 seeks:0 nb_streams:2
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - demuxer injecting skip 2048 / discard 0
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 23:07:34.959 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 23:07:34.960 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 35210 bytes read:65536 seeks:0 frames:2
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - [MI] Opening "/movies/Breaking Bad.mp4" for MP4 atom parsing
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found moov atom of size 20777 at offset 32
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found trak atom of size 14452 at offset 148
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found trak atom of size 6080 at offset 14600
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found mdia atom of size 14316 at offset 284
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found minf atom of size 14231 at offset 369
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found stbl atom of size 14167 at offset 433
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found mdia atom of size 5944 at offset 14736
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found minf atom of size 5859 at offset 14821
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - Mp4AtomParser: Found stbl atom of size 5799 at offset 14881
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - [MI]  * 5a18b40e436c1b2bf5804be4b7c380f135cfec0c [mp4 h264/aac] Duration: 13306ms, 1024x576 (1.777778) 51.125fps, bitrate=888kbps, audio channels=2, optimizedForStreaming=1 ("/movies/Breaking Bad.mp4")
+Jan 02, 2023 23:07:34.963 [0x7f9c5cc9f140] DEBUG - [MI] Chapters had generic titles, clearing.
+Jan 02, 2023 23:07:34.964 [0x7f9c5cc9f140] DEBUG - [MI] Closing input file: "/movies/Breaking Bad.mp4"
+Jan 02, 2023 23:07:34.964 [0x7f9c5cc9f140] DEBUG - Committing media stream changes for part 3
+Jan 02, 2023 23:07:34.964 [0x7f9c5cc9f140] DEBUG - Updating media item 3, size=1477585, metadata_item_id=3
+Jan 02, 2023 23:07:34.965 [0x7f9c5cc9f140] DEBUG - Updating part with ID=3 [/movies/Breaking Bad.mp4]
+Jan 02, 2023 23:07:34.965 [0x7f9c58863b00] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=3&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Jan 02, 2023 23:07:34.966 [0x7f9c5879bb00] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=3&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Jan 02, 2023 23:07:34.966 [0x7f9c58863b00] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=3&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Jan 02, 2023 23:07:34.966 [0x7f9c5cc9f140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 23:07:34.966 [0x7f9c5cc9f140] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 23:07:34.967 [0x7f9c5879bb00] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=3&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Jan 02, 2023 23:07:34.967 [0x7f9c5879bb00] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Jan 02, 2023 23:07:34.967 [0x7f9c5cc9f140] DEBUG - Updating metadata item (save) (No Half Measures: Creating the Final Season of Breaking Bad) with ID 3

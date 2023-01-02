@@ -1,0 +1,110 @@
+version: '2.1'
+services:
+  plex:
+    image: linuxserver/plex:latest
+    container_name: plex
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - VERSION=${VERSION}
+    volumes:
+      - ${ROOT}/library:/config
+      - ${ROOT}/tvseries:/tv
+      - ${ROOT}/movies:/movies
+    ports:
+      - 32400:32400
+    networks:
+      - plex-network
+    restart: unless-stopped #restarts the container if it stops
+
+  radarr:
+    image: linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${ROOT}/radarr/data:/config
+      - ${ROOT}/radarr/movies:/movies
+      - ${ROOT}/radarr/downloadclient-downloads:/downloads 
+    ports:
+      - 7878:7878
+    networks:
+      - plex-network
+    restart: unless-stopped
+
+  sonarr:
+    image: linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${ROOT}/sonarr/data:/config
+      - ${ROOT}/sonarr/tvseries:/tv
+      - ${ROOT}/sonarr/downloadclient-downloads:/downloads
+    ports:
+      - 8989:8989
+    networks:
+      - plex-network
+    restart: unless-stopped
+
+  bazarr:
+    image: linuxserver/bazarr:latest
+    container_name: bazarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${ROOT}/bazarr/config:/config
+      - ${ROOT}/bazarr/movies:/movies
+      - ${ROOT}/bazarr/tv:/tv
+    ports:
+      - 6767:6767
+    networks:
+      - plex-network
+    restart: unless-stopped
+
+  prowlarr:
+    image: linuxserver/prowlarr:develop
+    container_name: prowlarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${ROOT}/prowlarr/data:/config
+    ports:
+      - 9696:9696
+    networks:
+      - plex-network
+    restart: unless-stopped
+  
+  swag: 
+    image: linuxserver/swag:latest
+    container_name: swag
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+      - URL=${URL}
+      - SUBDOMAINS=wildcard
+      - VALIDATION=duckdns
+      - DUCKDNSTOKEN=${DUCKDNSTOKEN}
+    volumes:
+      - ${ROOT}/swag/config:/config
+    ports:
+      - 443:443
+    networks:
+      - plex-network
+    restart: unless-stopped
+  
+networks:
+  plex-network:
+    name: plex-network
+    external: true

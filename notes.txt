@@ -1,0 +1,6 @@
+plex : Webui can be found at <your-ip>:32400/web
+overseerr : Access the webui at <your-ip>:5055, for more information check out Overseerr.
+radarr : Access the webui at <your-ip>:7878, for more information check out Radarr.
+sonarr : Access the webui at <your-ip>:8989, for more information check out Sonarr.
+bazarr : Once running the URL will be http://<host-ip>:6767.
+prowlarr : Access the webui at <your-ip>:9696, for more information check out Prowlarr.

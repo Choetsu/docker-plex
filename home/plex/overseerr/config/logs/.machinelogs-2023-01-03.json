@@ -1,0 +1,222 @@
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:00:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:00:00.026Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"13ab8717-e11e-4300-995d-9dfe2c73278c","timestamp":"2023-01-02T23:00:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T23:00:00.029Z"}
+{"label":"Plex Scan","lastScan":1672700100026,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:00:00.035Z"}
+{"label":"Plex Scan","lastScan":1672700100030,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:00:00.039Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:00:00.043Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:01:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:02:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:03:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:04:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:05:00.009Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:05:00.011Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"8b16eb3f-cbca-4e31-9785-fa544446e54a","timestamp":"2023-01-02T23:05:00.012Z"}
+{"label":"Plex Scan","lastScan":1672700400039,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:05:00.021Z"}
+{"label":"Plex Scan","lastScan":1672700400042,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:05:00.028Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:05:00.033Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:06:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:07:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:08:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:09:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:10:00.012Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:10:00.013Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"598c41c7-17b0-4357-817f-a2e068cfcc52","timestamp":"2023-01-02T23:10:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T23:10:00.016Z"}
+{"label":"Plex Scan","lastScan":1672700700027,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:10:00.023Z"}
+{"label":"Plex Scan","level":"debug","message":"Saved new media: Anime","timestamp":"2023-01-02T23:10:00.062Z"}
+{"label":"Plex Scan","level":"debug","message":"Saved new media: No Half Measures: Creating the Final Season of Breaking Bad","timestamp":"2023-01-02T23:10:00.064Z"}
+{"label":"Plex Scan","lastScan":1672700700033,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:10:04.068Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:10:04.074Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:11:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:12:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:13:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:14:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:15:00.008Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:15:00.015Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"b006f962-6e5c-4e75-b976-c3ebf388e6d6","timestamp":"2023-01-02T23:15:00.015Z"}
+{"label":"Plex Scan","lastScan":1672701004067,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:15:00.029Z"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:15:00.039Z","title":"Anime"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:15:00.040Z","title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad","timestamp":"2023-01-02T23:15:00.059Z"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for Anime","timestamp":"2023-01-02T23:15:00.061Z"}
+{"label":"Plex Scan","lastScan":1672701004073,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:15:04.064Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:15:04.070Z"}
+{"label":"Media Request","level":"info","mediaId":5,"message":"Sent request to Radarr","requestId":3,"timestamp":"2023-01-02T23:15:20.811Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Iron Man 2 (2010)","timestamp":"2023-01-02T23:15:20.816Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2023-01-02T23:15:21.534Z"}
+{"label":"Radarr","level":"debug","message":"Radarr add details","movie":{"addOptions":{"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly","searchForMovie":true},"added":"2023-01-02T23:15:21Z","alternateTitles":[],"certification":"PG-13","cleanTitle":"ironman2","collection":{"added":"0001-01-01T00:00:00Z","id":0,"images":[],"minimumAvailability":"tba","monitored":false,"qualityProfileId":0,"searchOnAdd":false,"title":"Iron Man Collection","tmdbId":131292},"folderName":"/movies/Iron Man 2 (2010)","genres":["Adventure","Action","Science Fiction"],"hasFile":false,"id":2,"images":[{"coverType":"poster","remoteUrl":"https://image.tmdb.org/t/p/original/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg","url":"/MediaCover/2/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg","url":"/MediaCover/2/fanart.jpg"}],"imdbId":"tt1228705","inCinemas":"2010-04-28T00:00:00Z","isAvailable":true,"minimumAvailability":"released","monitored":true,"originalLanguage":{"id":1,"name":"English"},"originalTitle":"Iron Man 2","overview":"With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.","path":"/movies/Iron Man 2 (2010)","physicalRelease":"2010-09-28T00:00:00Z","popularity":158.273,"qualityProfileId":4,"ratings":{"imdb":{"type":"user","value":6.9,"votes":818575},"metacritic":{"type":"user","value":57,"votes":0},"rottenTomatoes":{"type":"user","value":71,"votes":0},"tmdb":{"type":"user","value":6.8,"votes":18750}},"runtime":124,"secondaryYearSourceId":0,"sizeOnDisk":0,"sortTitle":"iron man 2","status":"released","studio":"Marvel Studios","tags":[],"title":"Iron Man 2","titleSlug":"10138","tmdbId":10138,"website":"https://www.marvel.com/movies/iron-man-2","year":2010,"youTubeTrailerId":"BoohRoVA9WQ"},"timestamp":"2023-01-02T23:15:21.535Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:16:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:17:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:18:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:19:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:20:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:20:00.013Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"7711b477-8f2c-4579-98f2-98d6d45b1e06","timestamp":"2023-01-02T23:20:00.014Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T23:20:00.018Z"}
+{"label":"Plex Scan","lastScan":1672701304063,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:20:00.031Z"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:20:00.039Z","title":"Anime"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:20:00.040Z","title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad","timestamp":"2023-01-02T23:20:00.057Z"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for Anime","timestamp":"2023-01-02T23:20:00.058Z"}
+{"label":"Plex Scan","lastScan":1672701304070,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:20:04.060Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:20:04.067Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T23:20:37.842Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T23:20:38.320Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T23:20:39.153Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T23:20:39.176Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T23:20:39.281Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:21:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:22:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:23:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:24:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:25:00.023Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:25:00.031Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"a303bf8f-6e31-462d-96a9-ea5cc1568e1f","timestamp":"2023-01-02T23:25:00.033Z"}
+{"label":"Plex Scan","lastScan":1672701604060,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:25:00.082Z"}
+{"label":"Plex Scan","lastScan":1672701604066,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:25:00.090Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:25:00.095Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:26:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:27:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:28:00.011Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:28:10.166Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"361743","timestamp":"2023-01-02T23:28:17.968Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"361743","timestamp":"2023-01-02T23:28:30.129Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:28:37.040Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"361743","timestamp":"2023-01-02T23:28:45.176Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:28:51.891Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV genres: connect ENETUNREACH 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving the series genre slider","timestamp":"2023-01-02T23:28:51.971Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:29:00.008Z"}
+{"errorMessage":"[TMDB] Failed to fetch langauges: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving languages","timestamp":"2023-01-02T23:29:07.509Z"}
+{"errorMessage":"[TMDB] Failed to fetch countries: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving regions","timestamp":"2023-01-02T23:29:15.696Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:29:16.464Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.5:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:29:22.504Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming series","timestamp":"2023-01-02T23:29:23.637Z"}
+{"errorMessage":"connect ENETUNREACH 104.18.19.96:443","label":"Plex.TV Metadata API","level":"error","message":"Failed to retrieve watchlist items","timestamp":"2023-01-02T23:29:24.724Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:29:27.791Z","tvId":"119051"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"51d72324-37ac-4de2-b501-1210144c3f96","timestamp":"2023-01-02T23:29:28.681Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process library: Films","timestamp":"2023-01-02T23:29:28.694Z"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for Anime","timestamp":"2023-01-02T23:29:28.705Z"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad","timestamp":"2023-01-02T23:29:28.706Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process library: Séries TV","timestamp":"2023-01-02T23:29:28.706Z"}
+{"label":"Plex Scan","level":"info","message":"Full Scan Complete","timestamp":"2023-01-02T23:29:28.710Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"76600","timestamp":"2023-01-02T23:29:30.862Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving movie ratings","movieId":"361743","timestamp":"2023-01-02T23:29:33.949Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"361743","timestamp":"2023-01-02T23:29:37.043Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"a2f57d7b-f56d-47aa-8825-936e390ca351","timestamp":"2023-01-02T23:29:41.687Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process library: Films","timestamp":"2023-01-02T23:29:41.699Z"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:29:41.707Z","title":"Anime"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:29:41.707Z","title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for Anime","timestamp":"2023-01-02T23:29:41.710Z"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad","timestamp":"2023-01-02T23:29:41.711Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process library: Films FR","timestamp":"2023-01-02T23:29:41.711Z"}
+{"label":"Plex Scan","level":"info","message":"Media for No Half Measures: Creating the Final Season of Breaking Bad exists. Changes were detected and the title will be updated.","timestamp":"2023-01-02T23:29:41.729Z"}
+{"label":"Plex Scan","level":"info","message":"Media for Anime exists. Changes were detected and the title will be updated.","timestamp":"2023-01-02T23:29:41.731Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process library: Séries TV","timestamp":"2023-01-02T23:29:41.731Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process library: Séries TV FR","timestamp":"2023-01-02T23:29:41.735Z"}
+{"label":"Plex Scan","level":"info","message":"Full Scan Complete","timestamp":"2023-01-02T23:29:41.739Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:29:44.376Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:29:52.692Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"436270","timestamp":"2023-01-02T23:29:55.189Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:29:57.728Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving popular series","timestamp":"2023-01-02T23:29:59.447Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming movies","timestamp":"2023-01-02T23:29:59.449Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving the movie genre slider","timestamp":"2023-01-02T23:29:59.450Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving popular movies","timestamp":"2023-01-02T23:29:59.451Z"}
+{"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving trending items","timestamp":"2023-01-02T23:29:59.451Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:30:00.004Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:30:00.006Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"be2d80cb-0b25-4838-b406-2f84b659dc41","timestamp":"2023-01-02T23:30:00.006Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T23:30:00.009Z"}
+{"label":"Plex Scan","lastScan":1672701900090,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:30:00.015Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process recently added for library: Films FR","timestamp":"2023-01-02T23:30:00.020Z"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt3088036","tmdbId":239459,"tvdbId":18249},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:30:00.026Z","title":"No Half Measures: Creating the Final Season of Breaking Bad"}
+{"label":"Plex Scan","level":"debug","mediaIds":{"imdbId":"tt8451744","tmdbId":910552},"message":"GUIDs are cached. Skipping metadata request.","timestamp":"2023-01-02T23:30:00.027Z","title":"Anime"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for Anime","timestamp":"2023-01-02T23:30:00.037Z"}
+{"label":"Plex Scan","level":"debug","message":"Title already exists and no changes detected for No Half Measures: Creating the Final Season of Breaking Bad","timestamp":"2023-01-02T23:30:00.040Z"}
+{"label":"Plex Scan","lastScan":1672701900095,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:30:04.042Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process recently added for library: Séries TV FR","timestamp":"2023-01-02T23:30:04.048Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:30:04.051Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:30:15.636Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:30:15.691Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"76600","timestamp":"2023-01-02T23:30:21.976Z"}
+{"errorMessage":"connect ETIMEDOUT 104.18.19.96:443","label":"Plex.TV Metadata API","level":"error","message":"Failed to retrieve watchlist items","timestamp":"2023-01-02T23:30:21.978Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:30:21.980Z","tvId":"119051"}
+{"errorMessage":"[TMDB] Failed to fetch TV genres: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving the series genre slider","timestamp":"2023-01-02T23:30:21.981Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving popular series","timestamp":"2023-01-02T23:30:21.983Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming series","timestamp":"2023-01-02T23:30:21.983Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming movies","timestamp":"2023-01-02T23:30:21.984Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving popular movies","timestamp":"2023-01-02T23:30:21.985Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving the movie genre slider","timestamp":"2023-01-02T23:30:21.985Z"}
+{"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving trending items","timestamp":"2023-01-02T23:30:21.986Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"10138","timestamp":"2023-01-02T23:30:21.987Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"239459","timestamp":"2023-01-02T23:30:21.988Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:30:22.792Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:30:36.851Z","tvId":"208569"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:30:41.178Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:30:46.985Z","tvId":"208569"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:30:51.701Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:31:00.005Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:31:01.014Z","tvId":"103416"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:31:04.278Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ENETUNREACH 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:31:06.096Z","tvId":"103416"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:31:18.661Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:31:28.571Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:32:00.007Z"}
+{"errorMessage":"connect ENETUNREACH 104.18.19.96:443","label":"Plex.TV Metadata API","level":"error","message":"Failed to retrieve watchlist items","timestamp":"2023-01-02T23:32:22.890Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming movies","timestamp":"2023-01-02T23:32:22.892Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:32:28.956Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:32:28.959Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:32:32.943Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ENETUNREACH 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:32:49.458Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:33:00.004Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"910552","timestamp":"2023-01-02T23:33:28.343Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"239459","timestamp":"2023-01-02T23:33:28.345Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"76600","timestamp":"2023-01-02T23:33:28.346Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:33:28.346Z","tvId":"103416"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"10138","timestamp":"2023-01-02T23:33:28.347Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:33:28.348Z","tvId":"119051"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving popular series","timestamp":"2023-01-02T23:33:28.349Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming series","timestamp":"2023-01-02T23:33:28.350Z"}
+{"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving trending items","timestamp":"2023-01-02T23:33:28.350Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving popular movies","timestamp":"2023-01-02T23:33:28.351Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV genres: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving the series genre slider","timestamp":"2023-01-02T23:33:34.488Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming movies","timestamp":"2023-01-02T23:33:34.490Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving the movie genre slider","timestamp":"2023-01-02T23:33:34.492Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving popular movies","timestamp":"2023-01-02T23:33:34.494Z"}
+{"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving trending items","timestamp":"2023-01-02T23:33:34.495Z"}
+{"errorMessage":"connect ETIMEDOUT 104.18.18.96:443","label":"Plex.TV Metadata API","level":"error","message":"Failed to retrieve watchlist items","timestamp":"2023-01-02T23:33:34.497Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming series","timestamp":"2023-01-02T23:33:34.499Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving popular series","timestamp":"2023-01-02T23:33:34.502Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"76600","timestamp":"2023-01-02T23:33:34.504Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV show details: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving series","timestamp":"2023-01-02T23:33:34.505Z","tvId":"119051"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"239459","timestamp":"2023-01-02T23:33:34.507Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"10138","timestamp":"2023-01-02T23:33:34.509Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie ratings","movieId":"361743","timestamp":"2023-01-02T23:33:36.536Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie details: connect ETIMEDOUT 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving movie","movieId":"361743","timestamp":"2023-01-02T23:33:36.537Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ETIMEDOUT 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving popular series","timestamp":"2023-01-02T23:33:38.584Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming movies","timestamp":"2023-01-02T23:33:38.586Z"}
+{"errorMessage":"[TMDB] Failed to fetch movie genres: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving the movie genre slider","timestamp":"2023-01-02T23:33:38.587Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ETIMEDOUT 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving popular movies","timestamp":"2023-01-02T23:33:38.589Z"}
+{"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving trending items","timestamp":"2023-01-02T23:33:38.590Z"}
+{"errorMessage":"connect ETIMEDOUT 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:33:38.592Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming series","timestamp":"2023-01-02T23:33:38.682Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV genres: connect ENETUNREACH 52.84.174.115:443","label":"API","level":"debug","message":"Something went wrong retrieving the series genre slider","timestamp":"2023-01-02T23:33:38.684Z"}
+{"errorMessage":"connect ENETUNREACH 104.18.19.96:443","label":"Plex.TV Metadata API","level":"error","message":"Failed to retrieve watchlist items","timestamp":"2023-01-02T23:33:41.778Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:34:00.005Z"}
+{"errorMessage":"connect ENETUNREACH 140.82.121.6:443","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T23:34:24.950Z"}
+{"errorMessage":"[TMDB] Failed to fetch all trending: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving trending items","timestamp":"2023-01-02T23:34:28.018Z"}
+{"errorMessage":"connect ENETUNREACH 104.18.18.96:443","label":"Plex.TV Metadata API","level":"error","message":"Failed to retrieve watchlist items","timestamp":"2023-01-02T23:34:38.517Z"}
+{"errorMessage":"[TMDB] Failed to fetch TV genres: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving the series genre slider","timestamp":"2023-01-02T23:34:38.520Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ENETUNREACH 52.84.174.56:443","label":"API","level":"debug","message":"Something went wrong retrieving popular movies","timestamp":"2023-01-02T23:34:43.374Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover movies: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming movies","timestamp":"2023-01-02T23:34:43.487Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.76:443","label":"API","level":"debug","message":"Something went wrong retrieving popular series","timestamp":"2023-01-02T23:34:46.547Z"}
+{"errorMessage":"[TMDB] Failed to fetch discover TV: connect ENETUNREACH 52.84.174.36:443","label":"API","level":"debug","message":"Something went wrong retrieving upcoming series","timestamp":"2023-01-02T23:34:53.904Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T23:35:00.003Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T23:35:00.005Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"2a8a8f27-f134-4215-a964-6ecba34f2faa","timestamp":"2023-01-02T23:35:00.006Z"}
+{"label":"Plex Scan","lastScan":1672702200019,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T23:35:00.013Z"}
+{"label":"Plex Scan","lastScan":1672702204042,"level":"info","message":"Beginning to process recently added for library: Films FR","timestamp":"2023-01-02T23:35:00.018Z"}
+{"label":"Plex Scan","lastScan":1672702204046,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T23:35:00.023Z"}
+{"label":"Plex Scan","lastScan":1672702204051,"level":"info","message":"Beginning to process recently added for library: Séries TV FR","timestamp":"2023-01-02T23:35:00.026Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T23:35:00.029Z"}
